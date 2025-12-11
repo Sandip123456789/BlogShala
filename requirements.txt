@@ -6,7 +6,7 @@ Django==2.2.25
 django-admin-tools==0.9.0
 django-crispy-forms==1.7.2
 django-debug-toolbar==1.11.1
-gunicorn==20.0.4
+gunicorn==22.0.0
 json5==0.9.4
 jsonschema==3.2.0
 pipenv==2022.1.8
